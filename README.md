@@ -38,7 +38,7 @@ Setting up your 1Flow instance is straightforward. All you need are your environ
 
 1.  **Neon DB:** Connect your Neon project string to `DATABASE_URL`.
 2.  **Authentication:** Configure your `NEXTAUTH_SECRET` for secure sessions.
-3.  **Vercel Integration:** Add your Vercel Team/User ID to the dashboard to enable the "Connect & Publish" feature.
+3.  **Vercel Integration:** Add your Vercel secret/client ID to the dashboard to enable the "Connect & Publish" feature.
 4.  **AI Engine:** Plug in your OpenAI or Anthropic API key.
 
 ```env

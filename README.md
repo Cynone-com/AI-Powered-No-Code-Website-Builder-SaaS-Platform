@@ -45,5 +45,5 @@ Setting up your 1Flow instance is straightforward. All you need are your environ
 # Environment Configuration
 DATABASE_URL="postgresql://user:password@neon-host/1flow?sslmode=require"
 NEXTAUTH_SECRET="your_secure_secret"
-VERCEL_API_TOKEN="your_vercel_token"
+ANTHROPIC_API_KEY="sk-ant"
 AI_MODEL_KEY="your_ai_api_key"
